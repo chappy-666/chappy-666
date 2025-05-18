@@ -1,16 +1,15 @@
-## Hi there 👋
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--
-**chappy-666/chappy-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✨ About Me
 
-Here are some ideas to get you started:
+I'm a passionate frontend web developer from Japan, specializing in building responsive and accessible applications using Angular and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning RxJS and Angular Signals
+- 💬 Ask me about Angular, TypeScript, and Firebase
+
+## 🕒 Availability
+
+I'm based in **Japan (UTC+9)**.  
+Since I balance development work with household duties, my response time may vary.  
+Thank you for your patience and understanding! 😊
