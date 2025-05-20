@@ -6,7 +6,7 @@
 I'm a passionate frontend web developer from Japan, specializing in building responsive and accessible applications using Angular and TypeScript.
 
 - 🌱 I’m currently learning RxJS and Angular Signals
-- 💬 Ask me about Angular, TypeScript, and Firebase
+- 💬 Ask me about Angular, TypeScript
 
 ## 🕒 Availability
 
